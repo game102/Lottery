@@ -1,6 +1,6 @@
 # Lottery in js c# c++ python
 
-CocosCreator1.5.2 Unity? Unreal?
+CocosCreator1.5.2 Unity180306 Unreal?
 
 ## Getting Started
 
