@@ -8,7 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### CocosCreator版本
 
-Deployment on ubuntu 18.04.1 LTS
 测试地址www.dianmeng.us:6080
 
 ```
@@ -64,7 +63,6 @@ app.listen(6080);
 app.get("/dianmeng", function(request, responses){
 	responses.send("Good Luck!");
 });
-
 
 
 使用PM2管理webserver
