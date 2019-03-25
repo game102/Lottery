@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### CocosCreator版本
 
 Deployment on ubuntu 18.04.1 LTS
+测试地址www.dianmeng.us:6080
 
 ```
 上传代码
@@ -51,7 +52,19 @@ npm version
 cd /opt/creator_server/Lottery/lottery12_creator/build
 npm install express
 检查配置
-vim webserver.js
+cat webserver.js
+
+var express = require("express")
+var path = require("path");
+var app = express();
+//express目录/web_mobile
+app.use(express.static(path.join(process.cwd(), "web-mobile")));   
+app.listen(6080);
+
+app.get("/dianmeng", function(request, responses){
+	responses.send("Good Luck!");
+});
+
 
 
 使用PM2管理webserver
