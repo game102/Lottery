@@ -1,0 +1,1314 @@
+﻿Log file open, 04/14/19 00:02:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: loterry12_unreal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.818886
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.236s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:8585'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz, GPU: AMD Radeon (TM) R9 380 Series
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.13-16.02.55:134][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.13-16.02.55:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.13-16.02.55:181][  0]LogHAL: Display: Platform has ~ 16 GB [17109577728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.13-16.02.55:181][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.13-16.02.55:181][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.13-16.02.55:205][  0]LogInit: Computer: DESKTOP-EFPEJRK
+[2019.04.13-16.02.55:205][  0]LogInit: User: PC
+[2019.04.13-16.02.55:205][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.04.13-16.02.55:205][  0]LogInit: High frequency timer resolution =2.533314 MHz
+[2019.04.13-16.02.55:205][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.13-16.02.55:205][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.13-16.02.55:205][  0]LogMemory: Process Physical Memory: 102.94 MB used, 102.94 MB peak
+[2019.04.13-16.02.55:205][  0]LogMemory: Process Virtual Memory: 92.18 MB used, 92.18 MB peak
+[2019.04.13-16.02.55:205][  0]LogMemory: Physical Memory: 5678.55 MB used,  10638.41 MB free, 16316.96 MB total
+[2019.04.13-16.02.55:205][  0]LogMemory: Virtual Memory: 544.34 MB used,  10638.41 MB free, 134217728.00 MB total
+[2019.04.13-16.02.55:411][  0]LogInit: Using OS detected language (en-US).
+[2019.04.13-16.02.55:412][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.04.13-16.02.55:422][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.13-16.02.56:226][  0]LogStreaming: Display: Took  0.815s to InitEngineTextLocalization.
+[2019.04.13-16.02.56:458][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.13-16.02.56:458][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.13-16.02.57:445][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.13-16.02.57:445][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.13-16.02.57:534][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R9 380 Series' (Feature Level 11_0)
+[2019.04.13-16.02.57:534][  0]LogD3D11RHI:       4071/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.04.13-16.02.57:548][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.13-16.02.57:548][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.13-16.02.57:548][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.13-16.02.57:556][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.13-16.02.57:556][  0]LogD3D11RHI:     GPU DeviceId: 0x6938 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.13-16.02.57:556][  0]LogWindows: EnumDisplayDevices:
+[2019.04.13-16.02.57:556][  0]LogWindows:    0. 'AMD Radeon (TM) R9 380 Series' (P:1 D:1)
+[2019.04.13-16.02.57:557][  0]LogWindows:    1. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2019.04.13-16.02.57:558][  0]LogWindows:    2. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2019.04.13-16.02.57:559][  0]LogWindows:    3. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2019.04.13-16.02.57:559][  0]LogWindows:    4. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2019.04.13-16.02.57:560][  0]LogWindows:    5. 'AMD Radeon (TM) R9 380 Series' (P:0 D:0)
+[2019.04.13-16.02.57:560][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2019.04.13-16.02.57:561][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R9 380 Series
+[2019.04.13-16.02.57:561][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.3.4 (internal:23.20.15033.5003, unified:23.20.15033.5003)
+[2019.04.13-16.02.57:561][  0]LogD3D11RHI:      Driver Date: 3-22-2018
+[2019.04.13-16.02.57:561][  0]LogRHI: Texture pool is 2850 MB (70% of 4071 MB)
+[2019.04.13-16.02.57:653][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.13-16.02.57:669][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.04.13-16.02.57:670][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (E:/Project/CocosCreator/Lottery/loterry12_unreal/Intermediate/Shaders/WorkingDirectory/25464/).
+[2019.04.13-16.02.57:670][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PC/AppData/Local/Temp/UnrealShaderWorkingDir/B90B2F21468B8B0415C14DB3DBAF2E25/'.
+[2019.04.13-16.02.59:114][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.13-16.02.59:140][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.13-16.02.59:169][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.13-16.02.59:191][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.13-16.02.59:247][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.13-16.02.59:282][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.13-16.02.59:304][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.13-16.02.59:328][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.13-16.02.59:346][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:484][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.13-16.02.59:502][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.13-16.02.59:690][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.13-16.02.59:690][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.13-16.02.59:746][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.13-16.02.59:746][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.13-16.02.59:812][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.13-16.02.59:831][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.13-16.02.59:850][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.13-16.02.59:899][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.13-16.02.59:921][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.13-16.02.59:921][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.13-16.03.00:298][  0]LogXGEController: Cleaning working directory: C:/Users/PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.13-16.03.00:298][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.13-16.03.00:298][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.13-16.03.00:298][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.13-16.03.01:767][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.13-16.03.02:384][  0]LogDerivedDataCache: Loaded boot cache 0.59s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.13-16.03.02:385][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PC/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.13-16.03.02:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Project/CocosCreator/Lottery/loterry12_unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.13-16.03.02:385][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.13-16.03.02:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Project/CocosCreator/Lottery/loterry12_unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.13-16.03.02:385][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.13-16.03.02:432][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.13-16.03.02:445][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.13-16.03.02:445][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.13-16.03.02:445][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.13-16.03.02:475][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.13-16.03.02:477][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.13-16.03.02:524][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.13-16.03.02:916][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2019.04.13-16.03.03:539][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.13-16.03.04:002][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.13-16.03.04:057][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.13-16.03.04:057][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.13-16.03.04:057][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.13-16.03.04:057][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.13-16.03.04:160][  0]LogNetVersion: loterry12_unreal 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1524157672)
+[2019.04.13-16.03.05:512][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104336 seconds
+[2019.04.13-16.03.05:519][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.13-16.03.05:519][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.04.13-16.03.05:519][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.13-16.03.17:421][  0]LogWmfMedia: Failed to load mf.dll
+[2019.04.13-16.03.17:421][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2019.04.13-16.03.17:431][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2019.04.13-16.03.17:432][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2019.04.13-16.03.17:434][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2019.04.13-16.03.18:136][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.13-16.03.18:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.13-16.03.18:925][  0]SourceControl: Source control is disabled
+[2019.04.13-16.03.18:925][  0]SourceControl: Source control is disabled
+[2019.04.13-16.03.18:956][  0]SourceControl: Source control is disabled
+[2019.04.13-16.03.18:965][  0]SourceControl: Source control is disabled
+[2019.04.13-16.03.19:575][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.13-16.03.19:791][  0]LogOcInput: OculusInput pre-init called
+[2019.04.13-16.03.19:985][  0]LogEngine: Initializing Engine...
+[2019.04.13-16.03.19:986][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.13-16.03.19:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.13-16.03.19:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.13-16.03.19:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.13-16.03.19:988][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.13-16.03.20:288][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.13-16.03.20:355][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.13-16.03.20:392][  0]LogInit: XAudio2 using '4 - DELL U2414H (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.13-16.03.20:426][  0]LogInit: FAudioDevice initialized.
+[2019.04.13-16.03.20:426][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.13-16.03.20:558][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/PC/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.13-16.03.20:568][  0]LogInit: Texture streaming: Enabled
+[2019.04.13-16.03.20:635][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.13-16.03.20:981][  0]LogInit: Transaction tracking system initialized
+[2019.04.13-16.03.21:535][  0]BlueprintLog: New page: Editor Load
+[2019.04.13-16.03.23:751][  0]LocalizationService: Localization service is disabled
+[2019.04.13-16.03.24:649][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.04.13-16.03.24:650][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.04.13-16.03.24:650][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2019.04.13-16.03.26:341][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.13-16.03.26:341][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.13-16.03.26:342][  0]LogFileCache: Scanning file cache for directory 'E:/Project/CocosCreator/Lottery/loterry12_unreal/Content/' took 0.01s
+[2019.04.13-16.03.26:342][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.13-16.03.26:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.13-16.03.26:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.13-16.03.26:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.13-16.03.26:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.13-16.03.31:439][  0]SourceControl: Source control is disabled
+[2019.04.13-16.03.31:439][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.13-16.03.31:470][  0]LightingResults: New page: Lighting Build
+[2019.04.13-16.03.31:542][  0]MapCheck: New page: Map Check
+[2019.04.13-16.03.31:542][  0]LightingResults: New page: Lighting Build
+[2019.04.13-16.03.32:416][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.13-16.03.32:424][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.13-16.03.32:521][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.13-16.03.32:582][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.24ms to complete.
+[2019.04.13-16.03.32:582][  0]LogFileHelpers: Loading map 'Template_Default' took 1.143
+[2019.04.13-16.03.32:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.03.32:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.03.32:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.03.32:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.03.32:833][  0]LogCollectionManager: Loaded 0 collections in 0.000996 seconds
+[2019.04.13-16.03.32:921][  0]LogFileCache: Scanning file cache for directory 'E:/Project/CocosCreator/Lottery/loterry12_unreal/Saved/Collections/' took 0.01s
+[2019.04.13-16.03.32:921][  0]LogFileCache: Scanning file cache for directory 'E:/Project/CocosCreator/Lottery/loterry12_unreal/Content/Developers/PC/Collections/' took 0.01s
+[2019.04.13-16.03.32:921][  0]LogFileCache: Scanning file cache for directory 'E:/Project/CocosCreator/Lottery/loterry12_unreal/Content/Collections/' took 0.01s
+[2019.04.13-16.03.32:921][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.13-16.03.32:936][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2572 classes and 603 folders.
+[2019.04.13-16.03.33:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.13-16.03.34:473][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.13-16.03.34:498][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.13-16.03.34:688][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.13-16.03.34:688][  0]LogLoad: (Engine Initialization) Total time: 46.68 seconds
+[2019.04.13-16.03.34:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.13-16.03.34:739][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.13-16.03.34:760][  0]LogSlate: Took 0.018889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.13-16.03.34:770][  0]LogSlate: Took 0.006872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.13-16.03.34:791][  0]LogSlate: Took 0.014284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.13-16.03.34:974][  1]LogRenderer: Reallocating scene render targets to support 788x564 Format 10 NumSamples 1 (Frame:1).
+[2019.04.13-16.03.34:980][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Project/CocosCreator/Lottery/loterry12_unreal/Content/' took 0.26s
+[2019.04.13-16.03.35:094][  2]LogAssetRegistry: Asset discovery search completed in 32.1997 seconds
+[2019.04.13-16.03.35:097][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.13-16.03.35:097][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000143 seconds (updated 0 objects)
+[2019.04.13-16.03.39:244][ 14]LogSlate: Took 0.133365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.13-16.04.30:252][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.13-16.04.31:046][402]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.13-16.04.31:350][402]LogAIModule: Creating AISystem for world lottery12
+[2019.04.13-16.04.31:356][402]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/lottery12.lottery12
+[2019.04.13-16.04.31:402][402]Cmd: MAP LOAD FILE="E:/Project/CocosCreator/Lottery/loterry12_unreal/Content/Maps/lottery12.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.13-16.04.31:403][402]LightingResults: New page: Lighting Build
+[2019.04.13-16.04.31:404][402]LoadErrors: New page: Loading map: lottery12.umap
+[2019.04.13-16.04.31:404][402]MapCheck: New page: Map Check
+[2019.04.13-16.04.31:404][402]LightingResults: New page: Lighting Build
+[2019.04.13-16.04.31:621][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.13-16.04.31:677][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.13-16.04.31:739][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.651ms to complete.
+[2019.04.13-16.04.31:739][402]LogFileHelpers: Loading map 'lottery12' took 0.338
+[2019.04.13-16.04.32:946][532]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.13-16.04.32:959][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lottery12.lottery12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12' with GeneratedClass '/Game/Maps/lottery12.lottery12_C' with ClassGeneratedBy '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12'
+[2019.04.13-16.04.32:959][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.13-16.04.32:972][532]PIE: New page: PIE session: lottery12 (2019年4月14日 上午8:04:32)
+[2019.04.13-16.04.32:972][532]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lottery12
+[2019.04.13-16.04.32:974][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2019.04.13-16.04.32:975][532]LogAIModule: Creating AISystem for world lottery12
+[2019.04.13-16.04.32:975][532]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2019.04.13-16.04.32:975][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lottery12.lottery12 to /Game/Maps/UEDPIE_0_lottery12.lottery12 (0.003358s)
+[2019.04.13-16.04.33:026][532]LogInit: XAudio2 using '4 - DELL U2414H (2- AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.13-16.04.33:047][532]LogInit: FAudioDevice initialized.
+[2019.04.13-16.04.33:089][532]LogLoad: Game class is 'GameModeBase'
+[2019.04.13-16.04.33:091][532]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lottery12.lottery12 up for play (max tick rate 0) at 2019.04.14-00.04.33
+[2019.04.13-16.04.33:092][532]LogWorld: Bringing up level for play took: 0.000540
+[2019.04.13-16.04.33:122][532]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.04.13-16.04.33:127][532]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3
+[2019.04.13-16.04.33:127][532]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_lottery12 0.212
+[2019.04.13-16.04.33:127][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lottery12.lottery12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12' with GeneratedClass '/Game/Maps/lottery12.lottery12_C' with ClassGeneratedBy '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12'
+[2019.04.13-16.04.33:754][603]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:762][604]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:771][605]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:779][606]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:787][607]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:796][608]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:804][609]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:812][610]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:820][611]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:829][612]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:837][613]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:846][614]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 3-29
+[2019.04.13-16.04.33:854][615]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:862][616]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:871][617]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:879][618]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:889][619]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:895][620]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:904][621]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:912][622]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:921][623]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:928][624]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:937][625]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:946][626]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 4-29
+[2019.04.13-16.04.33:954][627]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.33:962][628]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.33:971][629]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.33:979][630]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.33:987][631]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.33:995][632]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:003][633]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:012][634]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:020][635]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:031][636]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:037][637]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:045][638]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 5-29
+[2019.04.13-16.04.34:053][639]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:062][640]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:072][641]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:079][642]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:087][643]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:095][644]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:104][645]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:112][646]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:122][647]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:129][648]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:137][649]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:145][650]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 6-29
+[2019.04.13-16.04.34:153][651]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:162][652]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:171][653]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:179][654]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:187][655]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:196][656]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:204][657]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:213][658]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:221][659]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:230][660]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:239][661]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:246][662]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 7-29
+[2019.04.13-16.04.34:254][663]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:264][664]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:272][665]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:280][666]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:287][667]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:296][668]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:304][669]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:313][670]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:321][671]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:329][672]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:337][673]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:346][674]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 8-29
+[2019.04.13-16.04.34:354][675]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:363][676]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:373][677]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:380][678]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:388][679]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:396][680]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:404][681]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:413][682]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:421][683]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:430][684]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:438][685]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:446][686]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 9-29
+[2019.04.13-16.04.34:454][687]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:464][688]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:472][689]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:482][690]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:488][691]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:496][692]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:505][693]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:513][694]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:522][695]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:530][696]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:537][697]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:546][698]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 10-29
+[2019.04.13-16.04.34:554][699]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:563][700]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:571][701]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:580][702]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:587][703]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:596][704]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:605][705]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:613][706]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:621][707]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:629][708]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:638][709]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:646][710]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 11-29
+[2019.04.13-16.04.34:655][711]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:663][712]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:671][713]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:680][714]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:688][715]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:696][716]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:704][717]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:712][718]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:722][719]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:730][720]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:738][721]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:747][722]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 12-29
+[2019.04.13-16.04.34:754][723]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:763][724]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:771][725]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:780][726]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:788][727]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:797][728]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:804][729]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:813][730]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:821][731]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:829][732]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:838][733]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:846][734]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 13-29
+[2019.04.13-16.04.34:855][735]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:862][736]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:872][737]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:879][738]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:887][739]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:896][740]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:904][741]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:913][742]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:921][743]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:929][744]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:937][745]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:946][746]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 14-29
+[2019.04.13-16.04.34:954][747]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.34:962][748]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.34:971][749]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.34:981][750]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.34:987][751]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.34:996][752]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:004][753]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:013][754]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:021][755]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:030][756]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:038][757]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:046][758]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 15-29
+[2019.04.13-16.04.35:054][759]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:063][760]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:071][761]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:079][762]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:088][763]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:096][764]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:105][765]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:113][766]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:122][767]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:129][768]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:138][769]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:146][770]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 16-29
+[2019.04.13-16.04.35:155][771]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:163][772]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:171][773]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:179][774]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:188][775]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:196][776]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:204][777]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:213][778]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:221][779]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:230][780]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:238][781]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:246][782]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 17-29
+[2019.04.13-16.04.35:255][783]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:263][784]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:271][785]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:279][786]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:287][787]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:296][788]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:304][789]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:313][790]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:321][791]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:329][792]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:338][793]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:346][794]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 18-29
+[2019.04.13-16.04.35:355][795]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:363][796]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:371][797]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:380][798]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:389][799]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:396][800]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:404][801]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:412][802]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:421][803]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:429][804]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:438][805]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:446][806]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 19-29
+[2019.04.13-16.04.35:454][807]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:463][808]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:471][809]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:479][810]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:488][811]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:496][812]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:505][813]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:512][814]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:521][815]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:529][816]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:537][817]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:546][818]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 20-29
+[2019.04.13-16.04.35:554][819]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:562][820]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:571][821]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:579][822]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:587][823]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:596][824]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:605][825]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:612][826]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:621][827]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:629][828]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:637][829]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:646][830]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 21-29
+[2019.04.13-16.04.35:654][831]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:662][832]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:671][833]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:679][834]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:687][835]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:696][836]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:704][837]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:712][838]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:721][839]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:730][840]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:738][841]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:746][842]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 22-29
+[2019.04.13-16.04.35:754][843]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:763][844]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:771][845]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:780][846]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:788][847]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:796][848]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:804][849]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:813][850]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:821][851]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:829][852]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:837][853]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:845][854]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 23-29
+[2019.04.13-16.04.35:854][855]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:862][856]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:871][857]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:879][858]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:887][859]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:895][860]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:904][861]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:912][862]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:921][863]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:929][864]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:938][865]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:946][866]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 24-29
+[2019.04.13-16.04.35:954][867]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.35:963][868]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.35:971][869]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.35:980][870]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.35:987][871]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.35:995][872]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:004][873]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:013][874]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:021][875]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:029][876]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:037][877]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:045][878]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 25-29
+[2019.04.13-16.04.36:054][879]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:062][880]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:070][881]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:079][882]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:087][883]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:095][884]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:105][885]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:112][886]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:123][887]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:129][888]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:137][889]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:145][890]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 26-29
+[2019.04.13-16.04.36:154][891]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:162][892]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:171][893]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:179][894]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:187][895]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:196][896]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:204][897]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:212][898]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:220][899]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:229][900]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:237][901]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:248][902]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 27-29
+[2019.04.13-16.04.36:255][903]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:266][904]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:272][905]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:281][906]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:288][907]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:297][908]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:305][909]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:314][910]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:322][911]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:330][912]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:339][913]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.36:347][914]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 28-29
+[2019.04.13-16.04.37:140][  9]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:148][ 10]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:157][ 11]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:164][ 12]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:173][ 13]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:182][ 14]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:189][ 15]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:198][ 16]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:206][ 17]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:214][ 18]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:222][ 19]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:231][ 20]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 29-54
+[2019.04.13-16.04.37:239][ 21]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:247][ 22]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:256][ 23]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:265][ 24]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:273][ 25]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:281][ 26]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:290][ 27]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:298][ 28]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:306][ 29]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:314][ 30]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:322][ 31]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:331][ 32]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 30-54
+[2019.04.13-16.04.37:339][ 33]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:347][ 34]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:356][ 35]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:364][ 36]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:372][ 37]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:381][ 38]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:389][ 39]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:397][ 40]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:406][ 41]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:414][ 42]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:422][ 43]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:431][ 44]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 31-54
+[2019.04.13-16.04.37:439][ 45]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:448][ 46]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:456][ 47]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:464][ 48]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:472][ 49]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:483][ 50]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:489][ 51]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:498][ 52]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:505][ 53]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:514][ 54]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:522][ 55]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:531][ 56]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 32-54
+[2019.04.13-16.04.37:539][ 57]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:547][ 58]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:555][ 59]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:564][ 60]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:574][ 61]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:581][ 62]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:592][ 63]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:598][ 64]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:606][ 65]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:615][ 66]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:624][ 67]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:631][ 68]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 33-54
+[2019.04.13-16.04.37:640][ 69]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:648][ 70]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:656][ 71]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:665][ 72]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:673][ 73]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:682][ 74]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:690][ 75]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:698][ 76]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:706][ 77]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:715][ 78]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:723][ 79]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:731][ 80]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 34-54
+[2019.04.13-16.04.37:740][ 81]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:748][ 82]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:756][ 83]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:765][ 84]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:773][ 85]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:782][ 86]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:790][ 87]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:798][ 88]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:806][ 89]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:815][ 90]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:823][ 91]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:831][ 92]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 35-54
+[2019.04.13-16.04.37:840][ 93]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:848][ 94]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:856][ 95]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:867][ 96]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:874][ 97]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:882][ 98]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:890][ 99]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:898][100]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:907][101]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:915][102]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:924][103]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:933][104]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 36-54
+[2019.04.13-16.04.37:940][105]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:950][106]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:957][107]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:966][108]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:973][109]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:982][110]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.37:990][111]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:000][112]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:007][113]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:016][114]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:024][115]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:032][116]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 37-54
+[2019.04.13-16.04.38:040][117]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:049][118]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:059][119]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:066][120]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:075][121]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:083][122]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:091][123]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:100][124]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:108][125]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:116][126]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:125][127]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:133][128]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 38-54
+[2019.04.13-16.04.38:141][129]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:151][130]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:158][131]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:168][132]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:174][133]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:183][134]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:191][135]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:200][136]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:207][137]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:216][138]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:224][139]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:233][140]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 39-54
+[2019.04.13-16.04.38:241][141]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:249][142]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:258][143]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:266][144]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:278][145]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:284][146]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:293][147]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:300][148]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:309][149]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:316][150]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:325][151]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:333][152]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 40-54
+[2019.04.13-16.04.38:342][153]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:350][154]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:358][155]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:366][156]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:375][157]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:383][158]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:392][159]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:400][160]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:408][161]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:417][162]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:425][163]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:434][164]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 41-54
+[2019.04.13-16.04.38:441][165]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:453][166]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:461][167]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:470][168]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:477][169]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:486][170]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:494][171]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:502][172]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:511][173]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:518][174]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:527][175]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:536][176]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 42-54
+[2019.04.13-16.04.38:544][177]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:552][178]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:560][179]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:568][180]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:577][181]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:585][182]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:594][183]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:602][184]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:610][185]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:618][186]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:627][187]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:636][188]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 43-54
+[2019.04.13-16.04.38:643][189]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:652][190]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:660][191]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:669][192]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:677][193]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:685][194]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:693][195]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:702][196]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:710][197]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:719][198]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:727][199]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:736][200]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 44-54
+[2019.04.13-16.04.38:746][201]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:752][202]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:762][203]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:769][204]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:779][205]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:786][206]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:794][207]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:802][208]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:811][209]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:819][210]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:827][211]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:835][212]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 45-54
+[2019.04.13-16.04.38:844][213]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:852][214]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:861][215]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:869][216]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:877][217]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:887][218]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:894][219]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:905][220]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:912][221]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:921][222]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:929][223]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:939][224]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 46-54
+[2019.04.13-16.04.38:945][225]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:954][226]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:962][227]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:971][228]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:979][229]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:987][230]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.38:996][231]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:004][232]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:012][233]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:020][234]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:029][235]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:037][236]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 47-54
+[2019.04.13-16.04.39:046][237]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:054][238]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:062][239]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:070][240]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:079][241]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:087][242]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:095][243]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:106][244]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:112][245]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:120][246]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:129][247]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:138][248]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 48-54
+[2019.04.13-16.04.39:145][249]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:154][250]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:162][251]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:171][252]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:178][253]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:187][254]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:195][255]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:204][256]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:212][257]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:221][258]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:228][259]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:237][260]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 49-54
+[2019.04.13-16.04.39:246][261]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:254][262]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:262][263]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:270][264]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:278][265]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:287][266]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:295][267]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:303][268]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:313][269]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:320][270]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:328][271]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:337][272]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 50-54
+[2019.04.13-16.04.39:345][273]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:355][274]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:362][275]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:371][276]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:378][277]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:387][278]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:395][279]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:403][280]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:412][281]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:420][282]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:429][283]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:437][284]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 51-54
+[2019.04.13-16.04.39:445][285]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:454][286]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:462][287]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:471][288]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:478][289]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:488][290]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:497][291]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:504][292]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:512][293]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:521][294]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:529][295]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:537][296]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 52-54
+[2019.04.13-16.04.39:547][297]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:554][298]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:562][299]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:571][300]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:579][301]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:587][302]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:597][303]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:604][304]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:612][305]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:621][306]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:629][307]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.39:637][308]LogBlueprintUserMessages: [WidgetBlueprintLottery_C_0] 53-54
+[2019.04.13-16.04.40:956][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lottery12.lottery12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12' with GeneratedClass '/Game/Maps/lottery12.lottery12_C' with ClassGeneratedBy '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12'
+[2019.04.13-16.04.40:957][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.04.40:992][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.13-16.04.40:993][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lottery12.lottery12:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12' with GeneratedClass '/Game/Maps/lottery12.lottery12_C' with ClassGeneratedBy '/Game/Maps/lottery12.lottery12:PersistentLevel.lottery12'
+[2019.04.13-16.04.41:032][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.13-16.04.41:057][467]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.13-16.04.43:993][633]LogSlate: Window 'loterry12_unreal - Unreal Editor' being destroyed
+[2019.04.13-16.04.43:994][633]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.13-16.04.44:175][634]Cmd: QUIT_EDITOR
+[2019.04.13-16.04.44:337][634]LogExit: Preparing to exit.
+[2019.04.13-16.04.45:221][634]LogExit: Editor shut down
+[2019.04.13-16.04.45:222][634]LogExit: Transaction tracking system shut down
+[2019.04.13-16.04.45:985][634]LogExit: Object subsystem successfully closed.
+[2019.04.13-16.04.46:018][634]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.13-16.04.46:023][634]LogD3D11RHI: Shutdown
+[2019.04.13-16.04.46:023][634]LogD3D11RHI: CleanupD3DDevice
+[2019.04.13-16.04.46:025][634]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.13-16.04.46:042][634]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.04.13-16.04.46:042][634]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.04.13-16.04.46:042][634]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.04.13-16.04.46:042][634]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.04.13-16.04.46:042][634]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.04.13-16.04.46:043][634]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.04.13-16.04.46:044][634]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.04.13-16.04.46:045][634]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.04.13-16.04.46:497][634]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.04.13-16.04.46:498][634]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.04.13-16.04.46:551][634]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.04.13-16.04.46:552][634]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.04.13-16.04.46:725][634]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.04.13-16.04.46:726][634]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.04.13-16.04.46:729][634]LogModuleManager: Shutting down and abandoning module Media (363)
+[2019.04.13-16.04.46:734][634]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2019.04.13-16.04.46:734][634]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module DatasmithContent (338)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module PolygonModeling (330)
+[2019.04.13-16.04.46:735][634]LogModuleManager: Shutting down and abandoning module MeshEditor (328)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (286)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (284)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2019.04.13-16.04.46:736][634]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2019.04.13-16.04.46:837][634]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (276)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2019.04.13-16.04.46:938][634]LogModuleManager: Shutting down and abandoning module LevelEditor (265)
+[2019.04.13-16.04.46:939][634]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (264)
+[2019.04.13-16.04.46:939][634]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (262)
+[2019.04.13-16.04.46:939][634]LogModuleManager: Shutting down and abandoning module MainFrame (260)
+[2019.04.13-16.04.46:939][634]LogModuleManager: Shutting down and abandoning module HotReload (259)
+[2019.04.13-16.04.46:940][634]LogModuleManager: Shutting down and abandoning module ContentBrowser (255)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module TreeMap (253)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module AISupportModule (248)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module Paper2D (246)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (244)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.04.13-16.04.46:941][634]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.04.13-16.04.46:942][634]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.04.13-16.04.46:944][634]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.04.13-16.04.46:945][634]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.04.13-16.04.46:945][634]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.04.13-16.04.46:945][634]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.04.13-16.04.46:945][634]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.04.13-16.04.47:025][634]LogDerivedDataCache: Shutdown
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.04.13-16.04.47:025][634]LogXGEController: Cleaning working directory: C:/Users/PC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.04.13-16.04.47:025][634]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.04.13-16.04.47:026][634]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.04.13-16.04.47:027][634]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.04.13-16.04.47:027][634]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.04.13-16.04.47:028][634]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.04.13-16.04.47:028][634]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.04.13-16.04.47:036][634]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.04.13-16.04.47:037][634]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.04.13-16.04.47:037][634]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.04.13-16.04.47:054][634]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.04.13-16.04.47:054][634]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.13-16.04.47:054][634]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E90BDB7-4906-76EF-14B0-E5A9DD4B5B14%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=9db3d3f04243cf83e3ad62b28f4fcdf6%7C521b4a15d0194e29a89c0d348b8ccf6c%7C67560372-acc7-4ad4-b987-a51039bc6d8b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.13-16.04.47:073][634]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.04.13-16.04.47:102][634]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.04.13-16.04.47:103][634]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.04.13-16.04.47:103][634]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.13-16.04.47:103][634]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.04.13-16.04.47:113][634]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.13-16.04.47:128][634]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.13-16.04.47:128][634]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.13-16.04.47:137][634]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.13-16.04.47:167][634]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.13-16.04.47:167][634]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.13-16.04.47:167][634]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.13-16.04.47:192][634]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.13-16.04.47:201][634]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.13-16.04.47:201][634]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.13-16.04.47:217][634]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.13-16.04.47:224][634]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.13-16.04.47:224][634]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.13-16.04.47:268][634]LogExit: Exiting.
+[2019.04.13-16.04.47:288][634]Log file closed, 04/14/19 00:04:47
