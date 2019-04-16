@@ -64,8 +64,16 @@ app.get("/dianmeng", function(request, responses){
 	responses.send("Good Luck!");
 });
 
+文件结构
+build
+├── web-mobile
+├── node_modules
+├── package-lock.json
+└── webserver.js
+```
 
 使用PM2管理webserver
+```
 PM2 is a production process manager for Node.js applications
 安装
 npm install pm2@latest -g
