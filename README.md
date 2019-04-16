@@ -47,11 +47,13 @@ export PATH=$NODEJS_HOME:$PATH
 node -v
 npm version
 
+```
 安装项目express环境
+```
 cd /opt/creator_server/Lottery/lottery12_creator/build
 npm install express
-检查配置
-cat webserver.js
+创建配置
+vim webserver.js
 
 var express = require("express")
 var path = require("path");
