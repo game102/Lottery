@@ -149,7 +149,7 @@ Say what the step will be
 Give the example
 ```
 
-<p align="center">
-  <img src="http://a3.qpic.cn/psb?/V13OpWF63Fj2Cn/8Qe.Zbm.RVuuwVF3V1Gf.58LaMIz.EegfELWmD6Xg*U!/c/dD4BAAAAAAAA&ek=1&kp=1&pt=0&bo=8gLVAfIC1QEBACc!&tl=1&tm=1556290800&sce=0-12-12&rf=0-18" width="350" title="hover text">
+<p align="left">
+  <img src="http://a3.qpic.cn/psb?/V13OpWF63Fj2Cn/8Qe.Zbm.RVuuwVF3V1Gf.58LaMIz.EegfELWmD6Xg*U!/c/dD4BAAAAAAAA&ek=1&kp=1&pt=0&bo=8gLVAfIC1QEBACc!&tl=1&tm=1556290800&sce=0-12-12&rf=0-18" width="500" title="hover text">
 </p>
 
